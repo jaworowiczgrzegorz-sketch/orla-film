@@ -1,0 +1,9 @@
+# ORL-G05 — Runway prompt
+
+## Prompt
+
+Cinematic photorealistic natural-history documentary reconstruction of a Lower Carboniferous landscape in what is now central-western Poland. A low stabilized camera moves slowly along the edge of a shallow stream across a broad humid sedimentary plain. Ancient Carboniferous vegetation grows naturally along the watercourse and on moist stable ground, with primitive spore-bearing plants and tree-like forms characteristic of an early Carboniferous ecosystem, but vegetation remains open and restrained rather than forming a dense jungle. Shallow clear water moves gently between sandy and muddy banks. Wet sediment, small pools and natural erosion are visible. The landscape feels warm, humid, ancient and biologically active, while remaining scientifically plausible and understated. Plants move subtly in a light breeze. The camera travels slowly at low height beside the water, passing foreground vegetation and gradually revealing the wider landscape in the background. Natural daylight, soft atmospheric perspective, realistic water, realistic soil and rock textures, detailed but restrained vegetation, cinematic depth of field, serious natural-history documentary aesthetic, photorealistic, immersive, no fantasy elements.
+
+## Negative prompt
+
+text, labels, captions, subtitles, dates, maps, diagrams, infographic, dinosaurs, reptiles, mammals, flowering plants, modern trees, palm trees, tropical rainforest, dense jungle, giant fantasy ferns, enormous insects, giant dragonflies, fantasy creatures, modern animals, humans, buildings, roads, vehicles, modern objects, fantasy landscape, exaggerated vegetation, glowing plants, magical effects, fantasy colors, cartoon, illustration, painterly style, low-poly, artificial terrain, unrealistic plants, oversized plants, camera shake, rapid camera movement, spinning camera, extreme aerial shot
